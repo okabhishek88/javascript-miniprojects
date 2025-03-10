@@ -1,0 +1,12 @@
+body {
+    background-color: blanchedalmond;
+}
+
+div {
+    text-align: center;
+}
+
+input,
+button {
+    padding: 1rem;
+}

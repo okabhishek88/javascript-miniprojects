@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#cflip {
+    text-align: center;
+}
+
+button {
+    padding: 1rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    border: none;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+#green {
+    background-color: green;
+    color: white;
+}
+
+#blue {
+    background-color: blue;
+    color: white;
+}
+
+#red {
+    background-color: red;
+    color: white;
+}
+
+#random {
+    background-color: black;
+    color: white;
+}

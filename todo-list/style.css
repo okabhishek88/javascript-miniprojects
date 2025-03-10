@@ -1,0 +1,40 @@
+body {
+    background-color: indianred;
+}
+
+div {
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input,
+button {
+    padding: 0.8rem;
+    margin-top: 1rem;
+}
+
+li {
+    font-size: large;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.items {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+li button {
+    margin-left: 20px;
+    padding: 0.5rem;
+}
